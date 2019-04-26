@@ -7,7 +7,7 @@ Por isso criei essa extensão de navegadores, seu objetivo é te alertar se a p�
 # Veja como instalar no Chrome:
 
 # Passo 01:
-- Baixei o projeto clicando em: Clone or Download > Download ZIP e em seguida descompacte.
+- Baixe o projeto clicando em: Clone or Download > Download ZIP e em seguida descompacte.
 
 # Passo 02:
 - Abra um nova guia no Chrome e digite: chrome://extensions/
